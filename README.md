@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![jindego](https://circleci.com/gh/jindego/Udacity_module5.svg?style=svg)](https://app.circleci.com/pipelines/github/Jindego/Udacity_module5)
 
 ## Project Overview
 
